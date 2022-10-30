@@ -1,0 +1,5 @@
+7) Explique que significa -cp en la intruccion anterior:
+
+al poner javac -cp, lo que se hace es especificar donde se puede encontrar
+lo que se conoce como user class files, que son los archivos que se generan 
+al compilar un programa java.

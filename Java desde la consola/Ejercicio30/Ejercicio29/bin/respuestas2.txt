@@ -1,0 +1,13 @@
+9) ¿Cual es la diferencia entre print y dump?
+
+print simplemente imprime en pantalla el objeto en sí, dump te 
+muestra el objeto a mas bajo nivel, es decir, te muestra si esta apuntando
+a algo, etc... Así que en lenguaje de hablar por casa, te muestra el 
+contenido de una variable (objeto).
+
+11) ¿Cual es la diferencia entre step y next?
+
+La diferencia entre next y step es que "step" se para cuando
+se topa con una funcion al parsear el programa. Mientras que "next" parsea
+el programa, y cuando llega a una funcion y la ejecuta parando la ejecucion 
+en la siguente linea donde empiece otra funcion.
